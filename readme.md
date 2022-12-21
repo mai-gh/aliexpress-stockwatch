@@ -1,6 +1,6 @@
 ## CLI utility to watch stock levels of a listing on aliexpress
 
-Uses [puppeteer](https://pptr.dev/) as a headless borwser to run necessary front end javascript to obtain relevant data.
+Uses [puppeteer](https://pptr.dev/) as a headless browser to run necessary front end javascript to obtain relevant data.
 
 ---
 
@@ -10,7 +10,7 @@ I want to get an item on aliexpress, but it is currently out of stock.
 
 I want to know when this specific item comes back in stock. 
 
-This tool can be chained with other cli tools to trigger a notification set to me.
+This tool can be chained with other cli tools to trigger a notification sent to me.
 
 ---
 
